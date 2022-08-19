@@ -1,2 +1,2 @@
 # Deepslate Stonecutter Data Pack
-Allows normal deepslate to be turned to cobbled deepslate in a stonecutter
+Allows normal deepslate to be used in a stonecutter
