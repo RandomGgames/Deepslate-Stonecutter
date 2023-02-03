@@ -25,9 +25,7 @@ recipes = {
 for item, count in recipes.items():
 	dict = {
 		"type": "minecraft:stonecutting",
-		"ingredient": {
-			"item": "minecraft:deepslate"
-		},
+		"ingredient": {"item": "minecraft:deepslate"},
 		"result": f"minecraft:{item}",
 		"count": count
 	}
